@@ -15,6 +15,7 @@ this repo consists the code related to leetcode questions answers
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,8 +24,14 @@ this repo consists the code related to leetcode questions answers
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
