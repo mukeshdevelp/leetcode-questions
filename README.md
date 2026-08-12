@@ -7,11 +7,13 @@ this repo consists the code related to leetcode questions answers
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0347-top-k-frequent-elements](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -74,10 +76,12 @@ this repo consists the code related to leetcode questions answers
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -86,4 +90,20 @@ this repo consists the code related to leetcode questions answers
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0002-add-two-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
