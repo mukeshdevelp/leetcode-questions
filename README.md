@@ -15,6 +15,7 @@ this repo consists the code related to leetcode questions answers
 | [0001-two-sum](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
@@ -71,6 +72,7 @@ this repo consists the code related to leetcode questions answers
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +87,7 @@ this repo consists the code related to leetcode questions answers
 | ------- |
 | [0049-group-anagrams](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
