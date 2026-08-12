@@ -32,6 +32,7 @@ this repo consists the code related to leetcode questions answers
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -78,6 +79,7 @@ this repo consists the code related to leetcode questions answers
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
