@@ -8,6 +8,7 @@ this repo consists the code related to leetcode questions answers
 | ------- |
 | [0001-two-sum](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0704-binary-search) |
@@ -17,6 +18,7 @@ this repo consists the code related to leetcode questions answers
 | [0001-two-sum](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
@@ -91,6 +93,7 @@ this repo consists the code related to leetcode questions answers
 | ------- |
 | [0049-group-anagrams](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
