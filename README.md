@@ -15,11 +15,13 @@ this repo consists the code related to leetcode questions answers
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -63,4 +65,16 @@ this repo consists the code related to leetcode questions answers
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
