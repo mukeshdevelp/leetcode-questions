@@ -9,6 +9,7 @@ this repo consists the code related to leetcode questions answers
 | [0001-two-sum](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,4 +114,8 @@ this repo consists the code related to leetcode questions answers
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
