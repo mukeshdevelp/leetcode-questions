@@ -23,6 +23,7 @@ this repo consists the code related to leetcode questions answers
 | ------- |
 | [0002-add-two-numbers](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
@@ -40,6 +41,7 @@ this repo consists the code related to leetcode questions answers
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mukeshdevelp/leetcode-questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
