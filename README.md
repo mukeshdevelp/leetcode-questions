@@ -8,6 +8,7 @@ this repo consists the code related to leetcode questions answers
 | ------- |
 | [0001-two-sum](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0049-group-anagrams) |
+| [0238-product-of-array-except-self](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0704-binary-search) |
 ## Hash Table
@@ -121,4 +122,8 @@ this repo consists the code related to leetcode questions answers
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0704-binary-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/mukeshdevelp/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
